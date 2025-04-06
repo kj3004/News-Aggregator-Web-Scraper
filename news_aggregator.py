@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-# Your NewsAPI key (you provided it, so I've included it here)
+# Your NewsAPI key 
 api_key = 'your_api_key'
 
 # Function to fetch news headlines using NewsAPI
